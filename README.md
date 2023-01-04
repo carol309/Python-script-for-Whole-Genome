@@ -11,5 +11,7 @@ Create a Python script that can examine the whole genomics for bacterial and usi
 The Script returns BLAST results for amino acid sequence which length are between 600 to 900
 ## Reference
 Biopython. (2022). Handling sequences with the Seq class. Retrieved October, 2022, from https://biopython.org/wiki/Seq
+
 Andrzej.E., Jim.O. The Genetic Codes. NCBI. Retrieved October, 2022, from https://www.ncbi.nlm.nih.gov/Taxonomy/Utils/wprintgc.cgi?chapter=tgencodes#SG11
+
 Jeff.C., Brand., Iddo., Thomas., Michiel., Peter., Tiago., Eric., Bartek. (2021) Biopython Tutorial and Cookbook. Biopython. Retrieved October 2022, from http://biopython.org/DIST/docs/tutorial/Tutorial.html#sec124
