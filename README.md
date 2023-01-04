@@ -1,7 +1,7 @@
 # Python Script For Whole Genome
 Final project for 03-701 Practical Computing for Biological Sciences at CM
 ## Object
-Create a Python script that can examine the whole genomics for bacterial and using BLAST to compare the protein sequences with database
+Create a Python script that can examine the whole genom for bacterial and using BLAST to compare the protein sequences with database
 ## How to use the script
 1. Download whole genomics sequence from NCBI
 2. Put the file in the same folder with the scipt
