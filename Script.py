@@ -30,7 +30,7 @@ amino_acid_weight = {
     "C": 121.2, "I": 131.2, "M": 149.2, "P": 115.1, "W": 204.2,
     "D": 133.1, "E": 147.1, "H": 155.2, "K": 146.2, "R": 174.2
 }
-###  Create empty map for amino acid sequence and its weight
+### Create empty map for amino acid sequence and its weight
 ### Create empty list for amino acid sequence which len < 1000
 sequence_len = []
 sequence_weight = {}
