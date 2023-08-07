@@ -1,4 +1,4 @@
-# Python Script For Whole Genome
+#  A python script for bacterial genome analysis
 Final project for 03-701 Practical Computing for Biological Sciences at CM
 ## Object
 Create a Python script that can examine the whole genom for bacterial and using BLAST to compare the protein sequences with database
